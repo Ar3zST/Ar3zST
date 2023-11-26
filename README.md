@@ -24,13 +24,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
 ![Código do Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 <br><br>
-## ⚙️  GitHub Analytics
-<p align="esquerda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ar3zST&show_icons=true&theme=vision-friendly-dark" alt="Jonas's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar3zST&layout=compact&theme=vision-friendly-dark" alt="maioria dos idiomas de Jonas" />
-</p>
-
-<br><br>
 
 ##  Contato
 
