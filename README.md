@@ -2,13 +2,11 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Jonas Luiz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ar3zST&color=yellow" alt="Visualizações de perfil" /> </p>
 
-- 🔥 Estudante de Analise e desenvolvimento de sistemas
+- 🔥 Formado em Analise e desenvolvimento de sistemas
 
 - 🔭 Atualmente estou estudando Typescript,Node.JS, e React
 
 - 💬 Estou desenvolvendo projetos com **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Curiosidade **Olho 😜**
 
 - 👨‍💻 Mais em https://www.linkedin.com/in/jonas-luiz-a396ba212/
 
